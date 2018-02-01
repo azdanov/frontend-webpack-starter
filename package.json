@@ -1,0 +1,9 @@
+{
+  "name": "frontend-webpack-starter",
+  "version": "1.0.0",
+  "description": "Frontend webpack starter for building static websites",
+  "main": "index.js",
+  "author": "Anton Zdanov <akumael@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
